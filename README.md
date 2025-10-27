@@ -651,12 +651,12 @@ sublicencia y/o venta de copias del Software...
 
 **Osvaldo Gonzalez Chaves**
 - 📧 Email: ogonzalezc@cuc.ac.cr
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](www.linkedin.com/in/osvaldo-gonzalez-chaves)
+- 💼 LinkedIn: [www.linkedin.com/in/osvaldo-gonzalez-chaves](www.linkedin.com/in/osvaldo-gonzalez-chaves)
 
 
 ### Proyecto
 
-- 📦 Repositorio: [github.com/[usuario]/agente-ia-cuc](https://github.com/usuario/agente-ia-cuc)
+- 📦 Repositorio: [github.com/ogonzalezc782/agente-ia-cuc](https://github.com/ogonzalezc782/agente-ia-cuc)
 
 ---
 
@@ -674,18 +674,6 @@ Si este proyecto te fue útil, considera darle una ⭐ en GitHub!
 
 ---
 
-## 📸 Screenshots
-
-### Chat Interface
-![Chat Interface](docs/images/chat-interface.png)
-
-### n8n Workflow
-![n8n Workflow](docs/images/workflow.png)
-
-### Email Report
-![Email Report](docs/images/email-report.png)
-
----
 
 <div align="center">
 
