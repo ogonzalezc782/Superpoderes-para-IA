@@ -649,26 +649,20 @@ sublicencia y/o venta de copias del Software...
 
 ### Autor
 
-**[Tu Nombre]**
-- 📧 Email: [tu-email]@cuc.ac.cr
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🐦 Twitter: [@tu-handle](https://twitter.com/tu-handle)
-- 🌐 Website: [tu-website.com](https://tu-website.com)
+**Osvaldo Gonzalez Chaves**
+- 📧 Email: ogonzalezc@cuc.ac.cr
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](www.linkedin.com/in/osvaldo-gonzalez-chaves)
+
 
 ### Proyecto
 
 - 📦 Repositorio: [github.com/[usuario]/agente-ia-cuc](https://github.com/usuario/agente-ia-cuc)
-- 🐛 Issues: [github.com/[usuario]/agente-ia-cuc/issues](https://github.com/usuario/agente-ia-cuc/issues)
-- 💬 Discussions: [github.com/[usuario]/agente-ia-cuc/discussions](https://github.com/usuario/agente-ia-cuc/discussions)
 
 ---
 
 ## 🙏 Agradecimientos
 
-- **Colegio Universitario de Cartago** por el caso de uso
-- **n8n Team** por la plataforma increíble
-- **Google** por Gemini API
-- **Comunidad Open Source** por el apoyo
+- **Colegio Universitario de Cartago** por la oportunidad de la charla a los estudiantes
 
 ---
 
@@ -699,6 +693,5 @@ Si este proyecto te fue útil, considera darle una ⭐ en GitHub!
 
 Hecho con ❤️ para la comunidad educativa
 
-[Reportar Bug](../../issues) · [Solicitar Feature](../../issues) · [Ver Demos](../../discussions)
 
 </div>
