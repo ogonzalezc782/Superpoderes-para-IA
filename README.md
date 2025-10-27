@@ -656,7 +656,7 @@ sublicencia y/o venta de copias del Software...
 
 ### Proyecto
 
-- 📦 Repositorio: [github.com/ogonzalezc782/agente-ia-cuc](https://github.com/ogonzalezc782/agente-ia-cuc)
+- 📦 Repositorio: [https://github.com/ogonzalezc782/agente-ia-cuc](https://github.com/ogonzalezc782/agente-ia-cuc)
 
 ---
 
