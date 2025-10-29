@@ -521,8 +521,7 @@ El workflow es LLM-agnóstico. Para cambiar a Claude o GPT-4:
 
 ### Tutoriales
 
-- [Video: Cómo crear agentes con n8n](https://www.youtube.com/n8n)
-- [Blog: Function Calling explicado](https://openai.com/blog/function-calling)
+- [Video: Cómo crear agentes con n8n](https://www.youtube.com/@n8n-io)
 
 ### Comunidad
 
@@ -634,7 +633,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ```
 MIT License
 
-Copyright (c) 2025 [Tu Nombre]
+Copyright (c) 2025 Osvaldo González Chaves
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una 
 copia de este software y archivos de documentación asociados (el "Software"), 
@@ -649,14 +648,14 @@ sublicencia y/o venta de copias del Software...
 
 ### Autor
 
-**Osvaldo Gonzalez Chaves**
+**Osvaldo González Chaves**
 - 📧 Email: ogonzalezc@cuc.ac.cr
-- 💼 LinkedIn: [www.linkedin.com/in/osvaldo-gonzalez-chaves](www.linkedin.com/in/osvaldo-gonzalez-chaves)
+- 💼 LinkedIn: [http://www.linkedin.com/in/osvaldo-gonzalez-chaves](http://www.linkedin.com/in/osvaldo-gonzalez-chaves)
 
 
 ### Proyecto
 
-- 📦 Repositorio: [https://github.com/ogonzalezc782/agente-ia-cuc](https://github.com/ogonzalezc782/agente-ia-cuc)
+- 📦 Repositorio: [https://github.com/ogonzalezc782/Superpoderes-para-IA](https://github.com/ogonzalezc782/Superpoderes-para-IA)
 
 ---
 
