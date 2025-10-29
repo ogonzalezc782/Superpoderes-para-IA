@@ -54,13 +54,8 @@
         -48
       ],
       "id": "5e5676bb-e4f8-450e-97b6-b7da5419ccd0",
-      "name": "Google Gemini Chat Model",
-      "credentials": {
-        "googlePalmApi": {
-          "id": "dDf17w4HIsjHOny0",
-          "name": "Google Gemini(PaLM) Api account"
-        }
-      }
+      "name": "Google Gemini Chat Model"
+      
     },
     {
       "parameters": {
@@ -73,14 +68,14 @@
           "value": "014L66T7XFXYH5CJA565FJ4RL6L6LZLNL7",
           "mode": "list",
           "cachedResultName": "Notas",
-          "cachedResultUrl": "https://cuccr-my.sharepoint.com/personal/ogonzalezc_cuc_ac_cr/_layouts/15/Doc.aspx?sourcedoc=%7BD10FBEE5-1D24-4AF7-9E45-7E5F9795B57F%7D&file=Notas.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1"
+          "cachedResultUrl": ""
         },
         "worksheet": {
           "__rl": true,
           "value": "{6858F2C4-3C3B-40E2-8606-6EC75BFE5C51}",
           "mode": "list",
           "cachedResultName": "Notas",
-          "cachedResultUrl": "https://cuccr-my.sharepoint.com/personal/ogonzalezc_cuc_ac_cr/_layouts/15/Doc.aspx?sourcedoc=%7BD10FBEE5-1D24-4AF7-9E45-7E5F9795B57F%7D&file=Notas.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&activeCell=Notas!A1"
+          "cachedResultUrl": ""
         },
         "options": {}
       },
@@ -91,13 +86,7 @@
         -16
       ],
       "id": "895c4418-87dd-41de-aee8-90b36fe354bf",
-      "name": "Excel Notas",
-      "credentials": {
-        "microsoftExcelOAuth2Api": {
-          "id": "aCA2FYD6TZ4P46li",
-          "name": "Microsoft Excel account"
-        }
-      }
+      "name": "Excel Notas"
     },
     {
       "parameters": {
@@ -110,14 +99,14 @@
           "value": "014L66T7XPNESZB6GXMBBJHOMLWXKXYF3S",
           "mode": "list",
           "cachedResultName": "Estudiantes",
-          "cachedResultUrl": "https://cuccr-my.sharepoint.com/personal/ogonzalezc_cuc_ac_cr/_layouts/15/Doc.aspx?sourcedoc=%7B902569EF-D7F8-4260-93B9-8BB5D57C1772%7D&file=Estudiantes.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1"
+          "cachedResultUrl": ""
         },
         "worksheet": {
           "__rl": true,
           "value": "{00000000-0001-0000-0000-000000000000}",
           "mode": "list",
           "cachedResultName": "Estudiantes",
-          "cachedResultUrl": "https://cuccr-my.sharepoint.com/personal/ogonzalezc_cuc_ac_cr/_layouts/15/Doc.aspx?sourcedoc=%7B902569EF-D7F8-4260-93B9-8BB5D57C1772%7D&file=Estudiantes.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&activeCell=Estudiantes!A1"
+          "cachedResultUrl": ""
         },
         "options": {}
       },
@@ -128,13 +117,7 @@
         -32
       ],
       "id": "9d9514b6-9e5c-4720-971b-8d659e74e59d",
-      "name": "Excel Matricula",
-      "credentials": {
-        "microsoftExcelOAuth2Api": {
-          "id": "aCA2FYD6TZ4P46li",
-          "name": "Microsoft Excel account"
-        }
-      }
+      "name": "Excel Matricula"      
     },
     {
       "parameters": {
@@ -153,13 +136,7 @@
       ],
       "id": "754ef5fd-715c-41f7-8e83-471cb0020792",
       "name": "Correo Gmail",
-      "webhookId": "53432be7-83c9-44c9-a7a1-b48553ca1488",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "kVyTBvSD2GQ9XOGi",
-          "name": "Gmail account"
-        }
-      }
+      "webhookId": "53432be7-83c9-44c9-a7a1-b48553ca1488"
     }
   ],
   "pinData": {},
